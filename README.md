@@ -1,9 +1,9 @@
 # Dio.me-Medusa-in-Kali-Linux
 Aprendendo sobre brute force com Medusa no Kali Linux e metasploitable em VMs seguindo o curso Santander - Cibersegurança do Zero a prática da DIO.me
 
-Primeiramente baixei o Kali Linux (linux com ferramentas de pentest e etc) e o MetaExplitable (sistem com linux vulnerabilidades para testar ataques) e rodei ambos em maquinas virtuais usando o Oracle Virtual Box, configurei para que fiquem na mesma rede.
+Primeiramente baixei o Kali Linux (linux com ferramentas de pentest e etc) e o MetaExplitable (sistema Linux com vulnerabilidades para testar ataques) e rodei ambos em maquinas virtuais usando o Oracle Virtual Box, configurei para que fiquem na mesma rede.
 
- Comandos usados :
+ Comandos usados no terminal :
 
 no Metasploitable:
 ip a 
